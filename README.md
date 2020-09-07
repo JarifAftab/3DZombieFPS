@@ -1,29 +1,21 @@
 # README #
+Hello, thanks for showing intrest in my first Unreal Engine game. However, the project files are much too large for GitHub and BitBucket so instead I put a link.
+Simply download the file and it will contain the entire Unreal Engine project.
 
-This README would normally document whatever steps are necessary to get your application up and running.
+If you want to play the game here are the controls:
+-Click Play to start the game
+-The game will end once your HEALTH reaches 0. However, health does regenerate. You also have shields which can be increased using pickups.
 
-### What is this repository for? ###
+-WASD and Spacebar for regular controls
+-R to reload
+-1 and 2 to switch weapons
+-G for gernades
+-Right-click for ADS
+-Left-click to shoot
+-Shift to run
+-Ctrl for crouch
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+The idea of the game is to kill as many zombies waves as possible, indicated by the level. Throughout the map there are pick ups like scopes, gun attatchments, shield boosters and an extra gun.
+Have fun!
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Just a note, all the assets for the game are not mine. Only the code and the blueprints are. If you want to use the blueprints and the code just ask me in advance.
