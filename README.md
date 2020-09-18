@@ -1,7 +1,7 @@
 # README #
-Hello, thanks for showing intrest in my first Unreal Engine game. However, the project files are much too large for GitHub and BitBucket so instead I put a link.
-You can also click the other link for the HTML version. Simply download it and launch the Unreal Server starter and you can play it.
-Simply download the file and it will contain the entire Unreal Engine project.
+Hello, thanks for showing interest in my first Unreal Engine game. However, the project files and the HTML game are much too large for GitHub and BitBucket so instead I put a link for the downloads.
+HTML: Download the folder and launch the Unreal Server starter and you can play it.
+Project: Load the project into Unreal Engine to edit it.
 
 If you want to play the game here are the controls:
 -Click Play to start the game
